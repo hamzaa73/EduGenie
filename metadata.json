@@ -1,0 +1,7 @@
+{
+  "name": "EduGenie - AI Question Generator",
+  "description": "A professional tool for students and teachers to transform study materials (PDF, Images, Text) into interactive question banks, quizzes, and study guides using advanced AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
